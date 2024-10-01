@@ -1,4 +1,4 @@
-name: Cl
+name: Windows 10 RDP
 
 on: [push, workflow_dispatch]
 
